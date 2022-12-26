@@ -81,7 +81,7 @@ theme_mode: dark   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://profiles.cache.lol/halil/picture?63a1b2b02629e
+avatar: https://avatars.githubusercontent.com/u/33789758?v=4
 
 # boolean type, the global switch for ToC in posts.
 toc: true
